@@ -86,5 +86,33 @@
                 "name": "Gri"
             }
         ]
+    },
+    "damageLocations": {
+        "data": [
+            {
+                "flag": "https://media.cgtrader.com/variants/k6ZDPVRteqUzpQrpG5DMub6C/a26e47dab5f2d22c43d6c5ce4b4b46ecc30c70918878397cba1a10c1e35d7bfc/Preview_1.jpg",
+                "code": "model1"
+            },
+            {
+                "flag": "http://media.cgtrader.com/variants/hjLm31eXq3sDdyQCxaETEeRQ/a26e47dab5f2d22c43d6c5ce4b4b46ecc30c70918878397cba1a10c1e35d7bfc/Screenshot_942023222112.jpg",
+                "code": "model2"
+            },
+            {
+                "flag": "https://media.cgtrader.com/variants/6CB9NaHvj8FKkGUu1yiaYJtV/a26e47dab5f2d22c43d6c5ce4b4b46ecc30c70918878397cba1a10c1e35d7bfc/preview1.jpg",
+                "code": "model3"
+            },
+            {
+                "flag": "https://media.cgtrader.com/variants/eTnfMR1ugwknnLFL4eBXtxZs/a26e47dab5f2d22c43d6c5ce4b4b46ecc30c70918878397cba1a10c1e35d7bfc/3.jpg",
+                "code": "model4"
+            },
+            {
+                "flag": "https://img-new.cgtrader.com/items/2877263/c35ab1238c/large/travel-suitcase-grey-london-3d-model-obj-fbx-blend-dae.jpg",
+                "code": "model5"
+            },
+            {
+                "flag": "https://www.catfootwear.com.pk/cdn/shop/products/84066-521PeoriaUniSchoolBag20L_MochilasrPET_1.jpg?v=1743629577",
+                "code": "model6"
+            }
+        ]
     }
 }
