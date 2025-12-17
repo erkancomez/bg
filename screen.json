@@ -1,0 +1,33 @@
+{
+    "serviceResult": {
+        "errorCode": "OK",
+        "errorMessage": "OK",
+        "isSuccess": true
+    },
+    "data": [
+  {
+    "code": "dashboard",
+    "name": "Dashboard",
+    "description": "Main overview screen showing operational summaries and key metrics.",
+    "icon": "dashboard"
+  },
+  {
+    "code": "reports",
+    "name": "Reports",
+    "description": "Detailed airline-based and operational reports.",
+    "icon": "bar_chart"
+  },
+  {
+    "code": "callQueries",
+    "name": "Call Queries",
+    "description": "Overview of call query volumes and workstation-based search activity.",
+    "icon": "call"
+  },
+  {
+    "code": "baggageQueries",
+    "name": "Baggage Queries",
+    "description": "Summary and analysis of baggage-related queries.",
+    "icon": "luggage"
+  }
+]
+}
