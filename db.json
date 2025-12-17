@@ -31,5 +31,40 @@
     "icon": "pi pi-fw pi-list-check"
   }
 ]
+},
+    "roleScreen": {
+    "serviceResult": {
+        "errorCode": "OK",
+        "errorMessage": "OK",
+        "isSuccess": true
+    },
+    "data":[
+  {
+    "role": "ADMIN",
+    "screenCode": "dashboard",
+    "showInMenu": true,
+    "expireDate": "2025-12-31T23:59:00"
+  },
+  {
+    "role": "ADMIN",
+    "screenCode": "baggageNotificationManagement",
+    "showInMenu": true,
+    "expireDate": "2026-01-31T23:59:00"
+  },
+  {
+    "role": "ADMIN",
+    "screenCode": "cargoDelivery",
+    "showInMenu": true,
+    "expireDate": "2026-03-31T23:59:00"
+  },
+  {
+    "role": "ADMIN",
+    "screenCode": "reconciliationReport",
+    "showInMenu": true,
+    "expireDate": "2026-06-30T23:59:00"
+  }
+]
+
+
 }
 }
