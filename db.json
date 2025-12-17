@@ -1,4 +1,4 @@
-{
+{ screen: {
     "serviceResult": {
         "errorCode": "OK",
         "errorMessage": "OK",
@@ -30,4 +30,5 @@
     "icon": "luggage"
   }
 ]
+}
 }
