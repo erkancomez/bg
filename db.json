@@ -10,25 +10,25 @@
     "code": "dashboard",
     "name": "Dashboard",
     "description": "Main overview screen showing operational summaries and key metrics.",
-    "icon": "dashboard"
+    "icon": "pi pi-fw pi-home"
   },
   {
-    "code": "reports",
-    "name": "Reports",
+    "code": "baggageNotificationManagement",
+    "name": "Baggage Notification Management",
     "description": "Detailed airline-based and operational reports.",
-    "icon": "bar_chart"
+    "icon": "brd brd-fw brd-luggage-checking"
   },
   {
-    "code": "callQueries",
-    "name": "Call Queries",
+    "code": "cargoDelivery",
+    "name": "Cargo Delivery",
     "description": "Overview of call query volumes and workstation-based search activity.",
-    "icon": "call"
+    "icon": "pi pi-fw pi-truck"
   },
   {
-    "code": "baggageQueries",
-    "name": "Baggage Queries",
+    "code": "reconciliationReport",
+    "name": "Reconciliation Report",
     "description": "Summary and analysis of baggage-related queries.",
-    "icon": "luggage"
+    "icon": "pi pi-fw pi-list-check"
   }
 ]
 }
