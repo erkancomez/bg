@@ -48,7 +48,7 @@
   {
     "role": "ADMIN",
     "screenCode": "baggageNotificationManagement",
-    "showInMenu": true,
+    "showInMenu": false,
     "expireDate": "2026-01-31T23:59:00"
   },
   {
